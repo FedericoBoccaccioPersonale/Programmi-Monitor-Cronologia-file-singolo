@@ -10,4 +10,4 @@ Scarica solo i file **7z** per ottenere la versione funzionante.
 
 # Informazioni
 Su GitHub c' è il repository principale, su GitLab è presente il suo clone per backup.
-Puoi anche scaricare il gioco da Itch.
+Puoi anche scaricare il programma da Itch.
